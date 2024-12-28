@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">📍 Brasil<br>📓 Estudante de Análise e Desenvolvimento de Sistemas • Técnico em Desenvolvimento de Sistemas da FATEC<br>📚 • ETEC</p>
+<p align="left">📍 Brasil<br>📓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC<br></p>
+<p>📚Técnico em Desenvolvimento de Sistemas da ETEC<br></p>
 
 ###
 
